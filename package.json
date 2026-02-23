@@ -42,7 +42,7 @@
     "debug": "^4.3.1",
     "fs-extra": "^11.1.0",
     "got": "^13.0.0",
-    "normalize-url": "^8.0.0",
+    "normalize-url": "^9.0.0",
     "p-queue": "^8.0.0",
     "sanitize-filename": "^1.6.3",
     "srcset": "^5.0.0"
